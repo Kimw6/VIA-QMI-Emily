@@ -27,3 +27,7 @@ The key caritieras are flexibility, scalability, and performance. I choose JavaF
   - Solution for calling MATLAB from Java:     
   Using MatlabControl JMI Wrapper to launch a matlab program from Java. 
   
+  
+  Updated link:
+  https://github.com/monali22/Medical-Data-Analysis-and-Visualization-with-a-Graphical-User-Inteface
+  
